@@ -1,0 +1,20 @@
+
+
+
+
+Cite this work:
+Ricardo Martins, "MATLAB colour picker and data extractor from colour bar, colour map and heatmap plots", University of Coimbra, October 2016, code available online: http://rmartins.net/demos/matlab-colour-picker-data-extractor-colour-bar-colour-map-heatmap-plots
+
+
+
+
+If you have any question about the code or additional feature request, please contact me:
+
+Email:
+ricardomartins112@gmail.com
+ricardo.martins@uc.pt
+
+Website:
+http://rmartins.net/
+
+
