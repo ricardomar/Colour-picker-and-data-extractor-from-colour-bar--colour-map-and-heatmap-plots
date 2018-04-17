@@ -22,15 +22,15 @@
 
 - myDemo01.m
 
-Main routine. Use this file to configure and run your experiment.
+  -Main routine. Use this file to configure and run your experiment.
 
-variable "myTargetImage": path to the image that you want to explore and pick values using the mouse.
+  -variable "myTargetImage": path to the image that you want to explore and pick values using the mouse.
 
-variable "myColorBarImage": path to the image that you want to use as reference colour bar. Linear scale.
+  -variable "myColorBarImage": path to the image that you want to use as reference colour bar. Linear scale.
 
-variable "myColorBarImageLowValue": scalar value representing the lower value of the reference linear colour bar.
+  -variable "myColorBarImageLowValue": scalar value representing the lower value of the reference linear colour bar.
 
-variable "myColorBarImageHighvalue": scalar value representing the higher value of the reference linear colour bar.
+  -variable "myColorBarImageHighvalue": scalar value representing the higher value of the reference linear colour bar.
 
 
 - mouseMove.m
