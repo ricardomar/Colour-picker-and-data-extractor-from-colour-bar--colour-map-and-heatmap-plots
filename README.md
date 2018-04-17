@@ -35,34 +35,34 @@
 
 - mouseMove.m
 
-Routine that is executed every time you mouve the mousse over the target image.
+  -Routine that is executed every time you mouve the mousse over the target image.
 
-You can use the custom "myKnnSearch.m", native "knnsearch.m" or other multi-dimensional search criteria.
+  -You can use the custom "myKnnSearch.m", native "knnsearch.m" or other multi-dimensional search criteria.
 
 
 
 - myKnnSearch.m
 
-Routine that is executed to search the nearest colour (Euclidean distance) to the picked pixel in target image and estimate the corresponding colour bar value.
+  -Routine that is executed to search the nearest colour (Euclidean distance) to the picked pixel in target image and estimate the corresponding colour bar value.
 
 
 
 - Color_Bar.jpg
 
-Example of a colour bar.
+  -Example of a colour bar.
 
-Colour bar should be oriented verticaly and represent a linear scale. Lower value at the bottom. Higher value at the top.
+  -Colour bar should be oriented verticaly and represent a linear scale. Lower value at the bottom. Higher value at the top.
 
-Colour bar and target image should be both RGB images or grayscale images.
+  -Colour bar and target image should be both RGB images or grayscale images.
 
-Best option to get a good version of a colour bar is to printscreen the source of that colour bar: eg: a scientific paper.
+  -Best option to get a good version of a colour bar is to printscreen the source of that colour bar: eg: a scientific paper.
 
 
 
 - Sample_Target_Image.jpg
 
-Example of a target image, which is going to be explored by mouse.
+  -Example of a target image, which is going to be explored by mouse.
 
-Colour bar and target image should be both RGB images or grayscale images.
+  -Colour bar and target image should be both RGB images or grayscale images.
 
-Best option to get a good version of a target image is to printscreen the source of that target image. eg: a scientific paper.
+  -Best option to get a good version of a target image is to printscreen the source of that target image. eg: a scientific paper.
