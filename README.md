@@ -1,4 +1,5 @@
 # Colour picker and data extractor from colour bar, colour map and heatmap plots
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4570638.svg)](https://doi.org/10.5281/zenodo.4570638)
 
 
 ## Description:
